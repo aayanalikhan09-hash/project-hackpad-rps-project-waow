@@ -13,11 +13,11 @@ Below are the images of all the parts and documents and I will also add a step-b
 <img width="625" height="865" alt="image" src="https://github.com/user-attachments/assets/bea6761c-791d-46b8-a5f3-f72425cd0562" />
 <img width="531" height="552" alt="image" src="https://github.com/user-attachments/assets/dbd1fb27-8932-475d-98e3-61425370a0d4" />
 
-1 Seeed XIAO RP2040
-3x MX-Style switches
-1x 0.91 inch OLED display
-3x white blank DSA keycaps
-2x SK6812 MINI-E LEDs
-6x M3x16mm screws
-2x M3x8mm screws
-6x M3x5mx4mm heatset inserts
+- 1 Seeed XIAO RP2040
+- 3x MX-Style switches
+- 1x 0.91 inch OLED display
+- 3x white blank DSA keycaps
+- 2x SK6812 MINI-E LEDs
+- 6x M3x16mm screws
+- 2x M3x8mm screws
+- 6x M3x5mx4mm heatset inserts
