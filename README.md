@@ -60,3 +60,7 @@ Eighth step: Take your newly assembled RPS PCB unit and assemble the remaining p
 Ninth step: We are almost ready to play! Simply take your personal device of choice(a phone, laptop, desktop machine - it doesn't matter!), and upload the firmware(not yet here sadly😢). After this, you are ready to play with your new RPS toy!
 
 To play, the only requirement is some form of USB-C power to the module. Aside from this, there are no other requirements!
+
+The way the project is built to function is with the microcontroller receiving the inputs from the user, which is meant to be a choice for whether they want to play rock, paper, or scissors. The OLED panel then receives inputs from the microcontroller and displays the results. This can differ based on whether or not the user won, lost, or tied.
+
+Huge thanks to the Orpheuspad devs, those guys really contributed to the good structure of this project and to my understanding of PCBs. I also should credit the Kirby artists because I kind of copied an image they made so shout out to them :D
