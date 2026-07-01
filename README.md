@@ -42,13 +42,21 @@ Important! - Before beginning, ensure you have gloves for heat protection. You d
 Additional notes - This build is not meant for total amateurs. If you are under the age of 12, seek help from an adult for any steps that may involve heat or precise control.
 
 First step: Order the PCB using the "production" folder's files given through JLCPCB or whatever PCB vendor you may choose
+
 Second Step: Download all the files in the "CAD" folder and upload them to the 3D printing slicer of your choice to prep them for printing, or upload them to Hack Club's Printing Legion to get started
+
 Third Step: Order any other miscellaneous parts that you don't have access to from the parts list provided
+
 Fourth Step: Upon the arrival of all listed parts, first solder both the microcontroller and OLED panel to their respective pin headers and solder the LEDs to their respective positions on the PCB as displayed in the CAD model.
+
 Fifth Step: With great control so as not to damage the PCB(I find placing it on a nice cardboard box does the trick), solder the microcontroller onto the board the EXACT same way it's displayed in the CAD model
+
 Sixth Step: Take the 2 M3x8mm screws and put them in the designated screw holes. Turn the PCB upside down(but still hold it in your hand!) and place the standoffs onto the screws.
-Seventh Step: This is one of the MOST dangerous parts of the whole build, so ensure you have those safety gloves on nice and tight and keep a steady hand. You must use your soldering iron to heat up the heatset inserts purchased, and then you must press them into the 3D printed base as specifically shown in the CAD 
+
+Seventh Step: This is one of the MOST dangerous parts of the whole build, so ensure you have those safety gloves on nice and tight and keep a steady hand. You must use your soldering iron to heat up the heatset inserts purchased, and then you must press them into the 3D printed base as specifically shown in the CAD
+
 Eighth step: Take your newly assembled RPS PCB unit and assemble the remaining parts according to the CAD model. I find that starting with the base and working up tends to work out best.
-Ninth step: We are almost ready to play! Simply take your personal device of choice(a phone, laptop, desktop machine - it doesnt matter!), and upload the firmware(not yet here sadly😢). After this, you are ready to play with your new RPS toy!
+
+Ninth step: We are almost ready to play! Simply take your personal device of choice(a phone, laptop, desktop machine - it doesn't matter!), and upload the firmware(not yet here sadly😢). After this, you are ready to play with your new RPS toy!
 
 To play, the only requirement is some form of USB-C power to the module. Aside from this, there are no other requirements!
