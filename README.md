@@ -1,7 +1,9 @@
 # project-hackpad-rps-project-waow
 
 Hello everyone! This is the landing page(i think thats what its called) for my macropad!
+
 Project RPS
+
 A Rock, Paper, Scissors CPU bot to play against for never-ending fun, all in a package that can teach kids STEM concepts in an easy-to-understand environment!
 
 Each folder in the repo above has all the files for the project such as the design, PCB itself, and any and all firmware.
